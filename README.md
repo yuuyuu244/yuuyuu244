@@ -16,7 +16,7 @@ Yuki-Kikuya
 
 ## Results and Products
 * [Icewall Hello - FIDO2 authentication software](https://www.hpe.com/jp/ja/software/icewall/mfa/mfa-fido2.html)
-* [Drinking Party - Video matching application](doc/2012.pdf)
+* [Drinking Party - Video matching application](doc/2015.pdf)
 
 ## License
 
