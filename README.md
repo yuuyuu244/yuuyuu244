@@ -2,6 +2,10 @@
 
 Yuki-Kikuya
 
+## Likes
+* Music(Drums)
+* Photo(Camera)
+
 ## Occupation
 * a software Engineer
 * a teacher of College (computer science)
@@ -12,7 +16,7 @@ Yuki-Kikuya
 * Finance
 
 ## Publishment
-* Photocatalysis of silver phosphate(2012)
+* [Photocatalysis of silver phosphate(2012)](doc/2012.pdf)
 
 ## Results and Products
 * [Icewall Hello - FIDO2 authentication software](https://www.hpe.com/jp/ja/software/icewall/mfa/mfa-fido2.html)
