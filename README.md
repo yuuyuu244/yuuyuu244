@@ -40,7 +40,7 @@ Yuki-Kikuya
 
 ## categories of repos
 ### License
-1. [ITPEC questions (translate lang='ja')](https://github.com/yuuyuu244/itpec-fe-trans-ja)
+1. [ITPEC questions (translate lang='ja')](https://yuuyuu244.github.io/itpec-fe-trans-ja/)
 2. [Jken](https://github.com/yuuyuu244/info-tech-cert-jken)
 3. [FE](https://github.com/yuuyuu244/national-exam-fe8)
 
