@@ -38,7 +38,7 @@ Yuki-Kikuya
 * Information Technology Passport Examination - ITパスポート(IP) (August 2015)
 
 
-## categorys of repos
+## categories of repos
 ### License
 1. [ITPEC questions (translate lang='ja')](https://github.com/yuuyuu244/itpec-fe-trans-ja)
 2. [Jken](https://github.com/yuuyuu244/info-tech-cert-jken)
