@@ -48,7 +48,7 @@ Yuki-Kikuya
 1. [image-scraping](https://github.com/yuuyuu244/image-scraping)
 
 ### Security
-1. [](https://github.com/yuuyuu244/sql-inject)
+1. [sql-inject](https://github.com/yuuyuu244/sql-inject)
 
 ## links
 * [mumvall.com](mumvall.com)
