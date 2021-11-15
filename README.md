@@ -4,7 +4,8 @@ Yuki-Kikuya
 
 ## Likes
 * Music(Drums)
-* Photo(Camera) [portfolio](https://photo.mumvall.com/)
+* Photo(Camera)   
+  [portfolio](https://photo.mumvall.com/)
 
 ## Occupation
 * a software Engineer
