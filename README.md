@@ -46,10 +46,25 @@ Yuki-Kikuya
 3. [FE](https://github.com/yuuyuu244/national-exam-fe8)
 
 ### apps
+1. [DrinkingParty](https://github.com/yuuyuu244/DrinkingParty)
 1. [image-scraping](https://github.com/yuuyuu244/image-scraping)
+1. [stream-downloader](https://github.com/yuuyuu244/stream-downloader)
 
 ### Security
+
 1. [sql-inject](https://github.com/yuuyuu244/sql-inject)
 
+### math
+
+1. [data-analysis](https://github.com/yuuyuu244/data-analysis)
+2. [math-learning](https://github.com/yuuyuu244/math-learning)
+
+### music
+
+1. [musescore-programming](https://github.com/yuuyuu244/musescore-programming)
+
+
+
 ## links
+
 * [mumvall.com](http://mumvall.com)
