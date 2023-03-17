@@ -3,6 +3,7 @@
 Yuki-Kikuya
 
 ## Likes
+* Motorcycle (`Ninja250 SE`)
 * Music(Drums)
 * Photo(Camera)   
   [portfolio](https://photo.mumvall.com/)
