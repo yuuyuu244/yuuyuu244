@@ -8,8 +8,9 @@ Yuki-Kikuya
   [portfolio](https://photo.mumvall.com/)
 
 ## Occupation
-* a software Engineer
-* a teacher of College (computer science)
+* 2017-2018 a software Engineer (`Softwere Constant Cooperation Co., Ltd`)
+* 2018-2022 a teacher of College [computer science] (`Electonics Development College`)
+* 2022-     a software Engineer (`Rivine Co., Ltd`)
 
 ## Skills
 * Security
