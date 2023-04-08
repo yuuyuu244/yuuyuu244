@@ -8,6 +8,12 @@ Yuki-Kikuya
 * Photo(Camera)   
   [portfolio](https://photo.mumvall.com/)
 
+## Educational Background 
+* 2012-2015 Osaka Prefectural Semboku Senior High School
+* 2015-2016 Osaka Computer School
+* 2018-2020 The Open University of Japan
+* 2021-2023 Hokkaido Infomation University 
+
 ## Occupation
 * 2017-2018 a software Engineer (`Softwere Constant Cooperation Co., Ltd`)
 * 2018-2022 a teacher of College [computer science] (`Electonics Development College`)
@@ -26,7 +32,9 @@ Yuki-Kikuya
 * [Drinking Party - Video matching application](doc/2015.pdf)
 
 ## License
-
+* High School Teaching Lisence(Business)- 高等学校教諭一種免許状(商業)(March 2023)
+* High School Teaching Lisence(Infomartion)- 高等学校教諭一種免許状(情報)(March 2023)
+* High School Teaching Lisence(Math)- 高等学校教諭一種免許状(数学)(March 2023)
 * Teacher's certificate of College - 専修学校教員認定証(March 2021)
 * Oracle Certified Java Programmer, Bronze SE 7/8(January 2020)
 * Information Security Specialist - 情報処理安全確保支援士試験(June 2019)
