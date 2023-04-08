@@ -16,8 +16,8 @@ Yuki-Kikuya
 
 ## Occupation
 * 2017-2018 a software Engineer (`Softwere Constant Cooperation Co., Ltd`)
-* 2018-2022 a teacher of College [computer science] (`Electonics Development College`)
-* 2022-     a software Engineer (`Rivine Co., Ltd`)
+* 2018-2023 a teacher of College [computer science] (`Electonics Development College`)
+* 2023-     a software Engineer (`Rivine Co., Ltd`)
 
 ## Skills
 * Security
