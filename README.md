@@ -3,8 +3,10 @@
 Yuki-Kikuya
 
 ## Likes
-* Motorcycle (`Ninja250 SE`)
-* Music(Drums)
+* Motorcycle (`Ninja250 SE`)  
+  ![](assets/IMG_4650.JPG)
+* Music(Drums)  
+  
 * Photo(Camera)   
   [portfolio](https://photo.mumvall.com/)
 
@@ -23,6 +25,7 @@ Yuki-Kikuya
 * Security
 * Education
 * Finance
+* Engineering
 
 ## Publishment
 * [Photocatalysis of silver phosphate(2012)](doc/2012.pdf)
