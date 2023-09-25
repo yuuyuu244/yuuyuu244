@@ -11,15 +11,15 @@ Yuki-Kikuya (Security Specialist)
   [portfolio](https://photo.mumvall.com/)
 
 ## Educational Background 
-* 2012-2015 Osaka Prefectural Semboku Senior High School
-* 2015-2016 Osaka Computer School
-* 2018-2020 The Open University of Japan
-* 2021-2023 Hokkaido Infomation University 
+* 2012-2015 Osaka Prefectural Semboku Senior High School，泉北高校
+* 2015-2016 Osaka Computer School，大阪情報専門学校
+* 2018-2020 The Open University of Japan，放送大学
+* 2021-2023 Hokkaido Infomation University，北海道情報大学
 
 ## Occupation
-* 2017-2018 a software Engineer (`Softwere Constant Cooperation Co., Ltd`)
-* 2018-2023 a teacher of College [computer science] (`Electonics Development College`)
-* 2023-     a software Engineer (`Rivine Co., Ltd`)
+* 2017-2018 a software Engineer (`Softwere Constant Cooperation Co., Ltd`，株式会社SCC)
+* 2018-2023 a teacher of College [computer science] (`Electonics Development College`，電子開発学園 大阪情報専門学校 教員)
+* 2023-     a software Engineer (`Rivine Co., Ltd`，株式会社Rivine)
 
 ## Skills
 * Security
