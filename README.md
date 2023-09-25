@@ -1,6 +1,6 @@
 # Profile
 
-Yuki-Kikuya
+Yuki-Kikuya (Security Specialist)
 
 ## Likes
 * Motorcycle (`Ninja250 SE`)  
