@@ -1,6 +1,8 @@
 # Profile
 
 Yuki-Kikuya (Security Specialist)
+![卒業文集](assets/20190921T001312_Original.jpeg)
+
 
 ## Likes
 * Motorcycle (`Ninja250 SE`)  
