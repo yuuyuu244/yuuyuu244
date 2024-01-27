@@ -1,6 +1,6 @@
 # Profile
 
-Yuki-Kikuya (Security Specialist, 少林寺拳法2段)
+Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
 ![卒業文集](assets/20190921T001312_Original.jpeg)
 
 
