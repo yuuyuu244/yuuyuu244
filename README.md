@@ -33,7 +33,7 @@ Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
     - Laravel, PHP
     - React, next.js, typescript, javascript
     - django, Python
-    ‐ flutter, dart, riverpod
+    - flutter, dart, riverpod
 
 ## Publishment
 * [Photocatalysis of silver phosphate(2012)](doc/2012.pdf)
