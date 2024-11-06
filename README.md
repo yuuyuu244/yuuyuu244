@@ -15,8 +15,9 @@ Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
 ## Educational Background 
 * 2012-2015 `Osaka Prefectural Semboku Senior High School`，泉北高校, GPA：4.6/5.0
 * 2015-2016 `Osaka Computer School`，大阪情報専門学校
-* 2018-2020 `The Open University of Japan`，放送大学, GPA：3.2/4.0
+* 2018-2020 `The Open University of Japan`，放送大学 教養学部 教養学科 情報コース, GPA：3.2/4.0
 * 2021-2023 `Hokkaido Infomation University`，北海道情報大学, GPA：3.4/4.0
+* 2024-202* `The Open University of Japan`，放送大学 教養学部 教養学科 心理と教育コース, GPA：*/4.0
 
 ## Occupation
 * 2017-2018 a software Engineer (`Softwere Constant Cooperation Co., Ltd`，株式会社SCC)
