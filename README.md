@@ -108,10 +108,11 @@ Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
 
 ## Publishment
 * [Photocatalysis of silver phosphate(2012)](doc/2012.pdf)
-
+  * [LLM Parsed pdf to markdown](./doc/2012.md)
 ## Results and Products
 * [Icewall Hello - FIDO2 authentication software](https://www.hpe.com/jp/ja/software/icewall/mfa/mfa-fido2.html)
 * [Drinking Party - Video matching application](doc/2015.pdf)
+  * [LLM Parsed pdf to markdown](doc/2015.md)
 
 ## License
 * `High School Teaching Lisence(Business)` - 高等学校教諭一種免許状(商業)(March 2023)
