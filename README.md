@@ -1,42 +1,41 @@
-# Profile
+# 🎉 Profile
 
-Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
+🛡️ Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
 
-[2009 - graduation essay at elementary school]
+📖 [2009 - graduation essay at elementary school]
 ![卒業文集](assets/20190921T001312_Original.jpeg)
 
-
-## Likes
-* Motorcycle (`Ninja250 SE`)  
+## ❤️ Likes
+* 🏍️ Motorcycle (`Ninja250 SE`)  
   ![](assets/IMG_4650.JPG)
-* Music(Drums)  
+* 🥁 Music(Drums)  
   
-* Photo(Camera)
+* 📸 Photo(Camera)
   ![](https://photo.mumvall.com/wp-content/uploads/2021/09/DSCF0268-scaled.jpg)
   [portfolio](https://photo.mumvall.com/)
 
-## Personality
-1. love **markdown** documents 😊! dislike `microsoft Office`! please use text-based documents **for LLM** 😵!!
-2. love `gh copilot`, `cursor`, **neovim** 😊!! dislike `emacs` 😵!!
+## 🌟 Personality
+1. 😊 love **markdown** documents! dislike `microsoft Office`! please use text-based documents **for LLM** 😵!!
+2. 😊 love `gh copilot`, `cursor`, **neovim**! dislike `emacs` 😵!!
 
-## Educational Background 
+## 🎓 Educational Background
 * 2012-2015 `Osaka Prefectural Semboku Senior High School`，泉北高校, GPA：4.6/5.0
 * 2015-2016 `Osaka Computer School`，大阪情報専門学校
 * 2018-2020 `The Open University of Japan`，放送大学 教養学部 教養学科 情報コース, GPA：3.2/4.0
 * 2021-2023 `Hokkaido Infomation University`，北海道情報大学, GPA：3.4/4.0
 * 2024-202* `The Open University of Japan`，放送大学 教養学部 教養学科 心理と教育コース, GPA：*/4.0
 
-## Occupation
+## 💼 Occupation
 * 2017-2018 a software Engineer (`Softwere Constant Cooperation Co., Ltd`，株式会社SCC)
 * 2018-2023 a teacher of College [computer science] (`Electonics Development College`，電子開発学園 大阪情報専門学校 教員)
 * 2023-now  a software Engineer (`Rivine Co., Ltd`，株式会社Rivine)
 
-## Skills
+## 🛠️ Skills
 * Security
 * Education
 * Finance
 
-### Engineering
+### 🖥️ Engineering
 - Public Cloud
   - AWS: Amplify, AppSync, S3  
     <p align="left"> 
@@ -106,15 +105,15 @@ Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-## Publishment
+## 📚 Publishment
 * [Photocatalysis of silver phosphate(2012)](doc/2012.pdf)
   * [LLM Parsed pdf to markdown](./doc/2012.md)
-## Results and Products
+## 🏆 Results and Products
 * [Icewall Hello - FIDO2 authentication software](https://www.hpe.com/jp/ja/software/icewall/mfa/mfa-fido2.html)
 * [Drinking Party - Video matching application](doc/2015.pdf)
   * [LLM Parsed pdf to markdown](doc/2015.md)
 
-## License
+## 🏅 License
 * `High School Teaching Lisence(Business)` - 高等学校教諭一種免許状(商業)(March 2023)
 * `High School Teaching Lisence(Infomartion)` - 高等学校教諭一種免許状(情報)(March 2023)
 * `High School Teaching Lisence(Math)` - 高等学校教諭一種免許状(数学)(March 2023)
@@ -132,32 +131,32 @@ Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
 * `Information Technology Passport Examination` - ITパスポート(IP) (August 2015)
 
 
-## categories of repos
-### License
+## 🗂️ Categories of Repos
+### 🏷️ License
 1. [ITPEC questions (translate lang='ja')](https://yuuyuu244.github.io/itpec-fe-trans-ja/)
 2. [Jken](https://github.com/yuuyuu244/info-tech-cert-jken)
 3. [FE](https://github.com/yuuyuu244/national-exam-fe8)
 
-### apps
+### 📱 Apps
 1. [DrinkingParty](https://github.com/yuuyuu244/DrinkingParty)
 1. [image-scraping](https://github.com/yuuyuu244/image-scraping)
 1. [stream-downloader](https://github.com/yuuyuu244/stream-downloader)
 
-### Security
+### 🔒 Security
 
 1. [sql-inject](https://github.com/yuuyuu244/sql-inject)
 
-### math
+### 📊 Math
 
 1. [data-analysis](https://github.com/yuuyuu244/data-analysis)
 2. [math-learning](https://github.com/yuuyuu244/math-learning)
 
-### music
+### 🎵 Music
 
 1. [musescore-programming](https://github.com/yuuyuu244/musescore-programming)
 
 
 
-## links
+## 🔗 Links
 
 * [mumvall.com](http://mumvall.com)
