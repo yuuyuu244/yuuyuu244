@@ -2,10 +2,14 @@
 
 🛡️ Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
 
+
+
+![GitHub stats](https://my-github-readme-stats-mu.vercel.app/api?username=yuuyuu244&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
+
+[![Top Langs](https://my-github-readme-stats-mu.vercel.app/api/top-langs/?username=yuuyuu244&layout=donut&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 📖 [2009 - graduation essay at elementary school]
 ![卒業文集 - 【OCRed Text】十五年後の自分\n 十五年後、ぼくは、パソコン関係や電気関係の仕事をしたいです。その理由は、ぼくはとてもパソコンが好きだし、ぼくのおばあちゃんが電気屋だからです。また、便利なソフトを作って、自分でパソコンを組み立てたりしてみたいと思います。また、パソコン関係や電気関係の資格もたくさん取りたいです。そして、パソコンが故障した人や、ウイルスが入ったパソコンを修理して、困っている人をたくさん助けていきたいです。そして、いろいろな周辺器具を集めて、便利にして、今の友達を忘れずに、一生続けて、とても楽しくて、すばらしい人生を暮らしていきたいです。そして、困っている人を助けることができる、優しい人になっていたいです。](assets/20190921T001312_Original.jpeg)
-
-![GitHub stats](https://my-github-readme-stats-mu.vercel.app/api?username=yuuyuu244&count_private=true)
 
 ## ❤️ Likes
 * 🏍️ Motorcycle (`Ninja250 SE`)  
