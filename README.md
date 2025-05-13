@@ -11,6 +11,13 @@
 📖 [2009 - graduation essay at elementary school]
 ![卒業文集 - 【OCRed Text】十五年後の自分\n 十五年後、ぼくは、パソコン関係や電気関係の仕事をしたいです。その理由は、ぼくはとてもパソコンが好きだし、ぼくのおばあちゃんが電気屋だからです。また、便利なソフトを作って、自分でパソコンを組み立てたりしてみたいと思います。また、パソコン関係や電気関係の資格もたくさん取りたいです。そして、パソコンが故障した人や、ウイルスが入ったパソコンを修理して、困っている人をたくさん助けていきたいです。そして、いろいろな周辺器具を集めて、便利にして、今の友達を忘れずに、一生続けて、とても楽しくて、すばらしい人生を暮らしていきたいです。そして、困っている人を助けることができる、優しい人になっていたいです。](assets/20190921T001312_Original.jpeg)
 
+<details>
+<summary>**Graduation Essay - "Myself in Fifteen Years"**</summary>
+
+In fifteen years, I want to work in the field of computers or electronics. The reason is that I really like computers, and my grandmother runs an electronics store. I also want to create useful software and try assembling computers myself. Moreover, I want to earn many certifications related to computers and electronics. I aim to help people by repairing broken computers or fixing ones infected with viruses. Additionally, I want to collect various peripherals, make them convenient, and cherish my current friendships throughout my life. I aspire to live a very enjoyable and wonderful life while becoming a kind person who can help those in need.
+
+</details>
+
 ## ❤️ Likes
 * 🏍️ Motorcycle (`Ninja250 SE`)  
   ![](assets/IMG_4650.JPG)
