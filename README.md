@@ -127,8 +127,9 @@ In fifteen years, I want to work in the field of computers or electronics. The r
   * [LLM Parsed pdf to markdown](doc/2015.md)
 
 ## 🏅 License
+* `Vocational Training Instructor's License(Informatics)` - 職業訓練指導員免許証(情報処理科)(March 2026)
 * `High School Teaching Lisence(Business)` - 高等学校教諭一種免許状(商業)(March 2023)
-* `High School Teaching Lisence(Infomartion)` - 高等学校教諭一種免許状(情報)(March 2023)
+* `High School Teaching Lisence(Informatics)` - 高等学校教諭一種免許状(情報)(March 2023)
 * `High School Teaching Lisence(Math)` - 高等学校教諭一種免許状(数学)(March 2023)
 * `Teacher's certificate of College` - 専修学校教員認定証(March 2021)
 * `Oracle Certified Java Programmer, Bronze SE 7/8` (January 2020)
