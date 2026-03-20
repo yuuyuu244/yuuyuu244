@@ -1,0 +1,7 @@
+[tools]
+lazygit = "latest"
+uv = "latest"
+
+# Markdown Formatter
+[tasks.lint]
+run = "uvx mdformat ./*.md"
