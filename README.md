@@ -1,6 +1,6 @@
 # 🎉 Profile
 
-🛡️ Yuki-Kikuya 菊谷友暉 (Security Specialist, 少林寺拳法2段)
+🛡️ Yuki-Kikuya 菊谷友暉 (Security Specialist, 情報処理安全確保支援士, 職業訓練指導員, 少林寺拳法2段)
 
 
 
@@ -121,28 +121,37 @@ In fifteen years, I want to work in the field of computers or electronics. The r
 ## 📚 Publishment
 * [Photocatalysis of silver phosphate(2012)](doc/2012.pdf)
   * [LLM Parsed pdf to markdown](./doc/2012.md)
+
 ## 🏆 Results and Products
 * [Icewall Hello - FIDO2 authentication software](https://www.hpe.com/jp/ja/software/icewall/mfa/mfa-fido2.html)
 * [Drinking Party - Video matching application](doc/2015.pdf)
   * [LLM Parsed pdf to markdown](doc/2015.md)
 
 ## 🏅 License
+### IT
+
+* `Information Security Specialist` - 情報処理安全確保支援士試験(June 2019)
+* `Applied Information Technology Engineer Examination` - 応用情報技術者試験(AP) (April 2016)
+* `Fundamental Information Technology Engineer Examination` - 基本情報技術者試験(FE) (October 2015)
+* `Information Technology Passport Examination` - ITパスポート(IP) (August 2015)
+* `Oracle Certified Java Programmer, Bronze SE 7/8` (January 2020)
+* `2nd grade Certified Skilled Worker of Web Design` - ウェブデザイン技能検定2級(May 2019)
+* `3nd grade Certified Skilled Worker of Web Design` - ウェブデザイン技能検定3級(April 2019)
+
+### Education
+
 * `Vocational Training Instructor's License(Informatics)` - 職業訓練指導員免許証(情報処理科)(March 2026)
 * `High School Teaching Lisence(Business)` - 高等学校教諭一種免許状(商業)(March 2023)
 * `High School Teaching Lisence(Informatics)` - 高等学校教諭一種免許状(情報)(March 2023)
 * `High School Teaching Lisence(Math)` - 高等学校教諭一種免許状(数学)(March 2023)
 * `Teacher's certificate of College` - 専修学校教員認定証(March 2021)
-* `Oracle Certified Java Programmer, Bronze SE 7/8` (January 2020)
-* `Information Security Specialist` - 情報処理安全確保支援士試験(June 2019)
-* `2nd grade Certified Skilled Worker of Web Design` - ウェブデザイン技能検定2級(May 2019)
-* `3nd grade Certified Skilled Worker of Web Design` - ウェブデザイン技能検定3級(April 2019)
+
+### Others (Finance/Accounting/Radio/Language)
+
 * `Financial Planning Exam - grade 3` - ファイナンシャルプランニング技能士 3級(May 2017)
 * `Accounting Exam grade 3` - 簿記検定 3級(November 2016)
 * `Amateur radio licensing grade 4 in Japan` - 4級アマチュア無線技士(October 2016)
-* `Applied Information Technology Engineer Examination` - 応用情報技術者試験(AP) (April 2016)
-* `Fundamental Information Technology Engineer Examination` - 基本情報技術者試験(FE) (October 2015)
 * `English proficiency Test grade 2` - 実用英語技能検定2級(October 2015)
-* `Information Technology Passport Examination` - ITパスポート(IP) (August 2015)
 
 
 ## 🗂️ Categories of Repos
