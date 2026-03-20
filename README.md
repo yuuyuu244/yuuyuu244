@@ -42,8 +42,8 @@ In fifteen years, I want to work in the field of computers or electronics. The r
 
 ## 💼 Occupation
 
-- 2017-2018 a software Engineer (`Softwere Constant Cooperation Co., Ltd`，株式会社SCC)
-- 2018-2023 a teacher of College [computer science] (`Electonics Development College`，電子開発学園 大阪情報専門学校 教員)
+- 2017-2018 a software Engineer (`Software Constant Cooperation Co., Ltd`，株式会社SCC)
+- 2018-2023 a teacher of College [computer science] (`Electronics Development College`，電子開発学園 大阪情報専門学校 教員)
 - 2023-now a software Engineer (`Rivine Co., Ltd`，株式会社Rivine)
 
 ## 🛠️ Skills
@@ -154,14 +154,14 @@ In fifteen years, I want to work in the field of computers or electronics. The r
 - `Information Technology Passport Examination` - ITパスポート(IP) (August 2015)
 - `Oracle Certified Java Programmer, Bronze SE 7/8` (January 2020)
 - `2nd grade Certified Skilled Worker of Web Design` - ウェブデザイン技能検定2級(May 2019)
-- `3nd grade Certified Skilled Worker of Web Design` - ウェブデザイン技能検定3級(April 2019)
+- `3rd grade Certified Skilled Worker of Web Design` - ウェブデザイン技能検定3級(April 2019)
 
 ### Education
 
 - `Vocational Training Instructor's License(Informatics)` - 職業訓練指導員免許証(情報処理科)(March 2026)
-- `High School Teaching Lisence(Business)` - 高等学校教諭一種免許状(商業)(March 2023)
-- `High School Teaching Lisence(Informatics)` - 高等学校教諭一種免許状(情報)(March 2023)
-- `High School Teaching Lisence(Math)` - 高等学校教諭一種免許状(数学)(March 2023)
+- `High School Teaching License(Business)` - 高等学校教諭一種免許状(商業)(March 2023)
+- `High School Teaching License(Informatics)` - 高等学校教諭一種免許状(情報)(March 2023)
+- `High School Teaching License(Math)` - 高等学校教諭一種免許状(数学)(March 2023)
 - `Teacher's certificate of College` - 専修学校教員認定証(March 2021)
 
 ### Others (Finance/Accounting/Radio/Language)

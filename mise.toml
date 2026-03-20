@@ -1,5 +1,6 @@
 [tools]
 lazygit = "latest"
+neovim = "latest"
 uv = "latest"
 
 # Markdown Formatter
