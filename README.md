@@ -37,8 +37,9 @@ In fifteen years, I want to work in the field of computers or electronics. The r
 - 2012-2015 `Osaka Prefectural Semboku Senior High School`，泉北高校, GPA：4.6/5.0
 - 2015-2016 `Osaka Computer School`，大阪情報専門学校
 - 2018-2020 `The Open University of Japan`，放送大学 教養学部 教養学科 情報コース, GPA：3.2/4.0
-- 2021-2023 `Hokkaido Infomation University`，北海道情報大学, GPA：3.4/4.0
-- 2024-202\* `The Open University of Japan`，放送大学 教養学部 教養学科 心理と教育コース, GPA：\*/4.0
+- 2021-2023 `Hokkaido Information University`，北海道情報大学, GPA：3.4/4.0
+- 2024-2026 `The Open University of Japan`，放送大学 教養学部 教養学科 心理と教育コース, GPA：\*/4.0
+- 2026-202\* `The Open University of Japan, Graduate School of Arts and Sciences`，放送大学大学院 文化科学研究科 文化科学専攻 修士選科生, Cultural Sciences (Non-degree Master's Student)
 
 ## 💼 Occupation
 
@@ -133,7 +134,7 @@ In fifteen years, I want to work in the field of computers or electronics. The r
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-## 📚 Publishment
+## 📚 Publications
 
 ### Research Paper
 
