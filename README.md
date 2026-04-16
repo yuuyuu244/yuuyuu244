@@ -1,16 +1,16 @@
 # 🎉 Profile
 
-🛡️ Yuki-Kikuya 菊谷友暉 (Security Specialist, 情報処理安全確保支援士, 職業訓練指導員, 少林寺拳法2段)
+🛡️ Yuki-Kikuya 菊谷友暉 (Security Specialist, 情報処理安全確保支援士, 職業訓練指導員, 認定心理士, 少林寺拳法2段)
 
 ![GitHub stats](https://my-github-readme-stats-mu.vercel.app/api?username=yuuyuu244&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 
 [![Top Langs](https://my-github-readme-stats-mu.vercel.app/api/top-langs/?username=yuuyuu244&layout=donut&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-📖 [2009 - graduation essay at elementary school]
+📖 [2009 - Graduation Essay at Elementary School]
 ![卒業文集 - 【OCRed Text】十五年後の自分 十五年後、ぼくは、パソコン関係や電気関係の仕事をしたいです。その理由は、ぼくはとてもパソコンが好きだし、ぼくのおばあちゃんが電気屋だからです。また、便利なソフトを作って、自分でパソコンを組み立てたりしてみたいと思います。また、パソコン関係や電気関係の資格もたくさん取りたいです。そして、パソコンが故障した人や、ウイルスが入ったパソコンを修理して、困っている人をたくさん助けていきたいです。そして、いろいろな周辺器具を集めて、便利にして、今の友達を忘れずに、一生続けて、とても楽しくて、すばらしい人生を暮らしていきたいです。そして、困っている人を助けることができる、優しい人になっていたいです。](assets/20190921T001312_Original.jpeg)
 
 <details>
-<summary>**Graduation Essay - "Myself in Fifteen Years"**</summary>
+<summary><strong>Graduation Essay - "Myself in Fifteen Years"</strong></summary>
 
 In fifteen years, I want to work in the field of computers or electronics. The reason is that I really like computers, and my grandmother runs an electronics store. I also want to create useful software and try assembling computers myself. Moreover, I want to earn many certifications related to computers and electronics. I aim to help people by repairing broken computers or fixing ones infected with viruses. Additionally, I want to collect various peripherals, make them convenient, and cherish my current friendships throughout my life. I aspire to live a very enjoyable and wonderful life while becoming a kind person who can help those in need.
 
@@ -37,14 +37,14 @@ In fifteen years, I want to work in the field of computers or electronics. The r
 - 2012-2015 `Osaka Prefectural Semboku Senior High School`，泉北高校, GPA：4.6/5.0
 - 2015-2016 `Osaka Computer School`，大阪情報専門学校
 - 2018-2020 `The Open University of Japan`，放送大学 教養学部 教養学科 情報コース, GPA：3.2/4.0
-- 2021-2023 `Hokkaido Infomation University`，北海道情報大学, GPA：3.4/4.0
+- 2021-2023 `Hokkaido Information University`，北海道情報大学, GPA：3.4/4.0
 - 2024-202\* `The Open University of Japan`，放送大学 教養学部 教養学科 心理と教育コース, GPA：\*/4.0
 
 ## 💼 Occupation
 
-- 2017-2018 a software Engineer (`Software Constant Cooperation Co., Ltd`，株式会社SCC)
-- 2018-2023 a teacher of College [computer science] (`Electronics Development College`，電子開発学園 大阪情報専門学校 教員)
-- 2023-now a software Engineer (`Rivine Co., Ltd`，株式会社Rivine)
+- 2017-2018 a Software Engineer (`Software Constant Cooperation Co., Ltd`，株式会社SCC)
+- 2018-2023 a College Teacher [Computer Science] (`Electronics Development College`，電子開発学園 大阪情報専門学校 教員)
+- 2023-now a Software Engineer (`Rivine Co., Ltd`，株式会社Rivine)
 
 ## 🛠️ Skills
 
@@ -133,7 +133,7 @@ In fifteen years, I want to work in the field of computers or electronics. The r
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-## 📚 Publishment
+## 📚 Publications
 
 - [Photocatalysis of silver phosphate(2012)](doc/2012.pdf)
   - [LLM Parsed pdf to markdown](./doc/2012.md)
@@ -164,8 +164,9 @@ In fifteen years, I want to work in the field of computers or electronics. The r
 - `High School Teaching License(Math)` - 高等学校教諭一種免許状(数学)(March 2023)
 - `Teacher's certificate of College` - 専修学校教員認定証(March 2021)
 
-### Others (Finance/Accounting/Radio/Language)
+### Others (Finance/Accounting/Radio/Language/Psychology)
 
+- `Certified Psychologist` - 認定心理士（公益社団法人 日本心理学会）(April 2026)
 - `Financial Planning Exam - grade 3` - ファイナンシャルプランニング技能士 3級(May 2017)
 - `Accounting Exam grade 3` - 簿記検定 3級(November 2016)
 - `Amateur radio licensing grade 4 in Japan` - 4級アマチュア無線技士(October 2016)
