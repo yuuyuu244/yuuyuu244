@@ -5,7 +5,7 @@ uv = "latest"
 
 # Markdown Formatter
 [tasks.lint]
-run = "uvx mdformat ./*.md"
+run = "uvx mdformat $(find . -maxdepth 3 -name '*.md' ! -name 'README.md')"
 
 [tasks.setup]
 run = "uvx pre-commit install"
