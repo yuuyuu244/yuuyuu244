@@ -38,7 +38,8 @@ In fifteen years, I want to work in the field of computers or electronics. The r
 - 2015-2016 `Osaka Computer School`，大阪情報専門学校
 - 2018-2020 `The Open University of Japan`，放送大学 教養学部 教養学科 情報コース, GPA：3.2/4.0
 - 2021-2023 `Hokkaido Information University`，北海道情報大学, GPA：3.4/4.0
-- 2024-202\* `The Open University of Japan`，放送大学 教養学部 教養学科 心理と教育コース, GPA：\*/4.0
+- 2024-2026 `The Open University of Japan`，放送大学 教養学部 教養学科 心理と教育コース, GPA：\*/4.0
+- 2026-202\* `The Open University of Japan, Graduate School of Arts and Sciences`，放送大学大学院 文化科学研究科 文化科学専攻 修士選科生, Cultural Sciences (Non-degree Master's Student)
 
 ## 💼 Occupation
 
@@ -135,8 +136,14 @@ In fifteen years, I want to work in the field of computers or electronics. The r
 
 ## 📚 Publications
 
+### Research Paper
+
 - [Photocatalysis of silver phosphate(2012)](doc/2012.pdf)
   - [LLM Parsed pdf to markdown](./doc/2012.md)
+
+### NPM Package
+
+- [tui-kanban-board - npm](https://www.npmjs.com/package/tui-kanban-board)
 
 ## 🏆 Results and Products
 
