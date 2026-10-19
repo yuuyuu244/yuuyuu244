@@ -1,6 +1,6 @@
 # 🎉 Profile
 
-🛡️ Yuki-Kikuya 菊谷友暉 (Security Specialist, 情報処理安全確保支援士, 職業訓練指導員, 認定心理士, 少林寺拳法2段)
+🛡️ Yuki-Kikuya 菊谷友暉 (Security Specialist, 情報処理安全確保支援士, ウェブデザイン技能士, 職業訓練指導員, 認定心理士, 教員(高校数学, 情報, 商業), 少林寺拳法2段)
 
 ![GitHub stats](https://my-github-readme-stats-mu.vercel.app/api?username=yuuyuu244&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 
